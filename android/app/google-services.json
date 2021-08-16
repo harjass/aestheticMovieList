@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "382711759055",
+    "project_id": "aesthetic-movie-list",
+    "storage_bucket": "aesthetic-movie-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382711759055:android:acbb668f4c73809b5077ba",
+        "android_client_info": {
+          "package_name": "com.example.aesthetic_movie_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382711759055-bmghcnk2abk2s745i1ffcrqlsp5ap7k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aesthetic_movie_list",
+            "certificate_hash": "0bc5d6407b728e86e15c7bbb33c4becbc151e1ea"
+          }
+        },
+        {
+          "client_id": "382711759055-l9dqgt0bfpe9g8rv8lfc681df4m2ffu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz0w8lsSD8bgv_ASyIzalqtM6twRcTSsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382711759055-l9dqgt0bfpe9g8rv8lfc681df4m2ffu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

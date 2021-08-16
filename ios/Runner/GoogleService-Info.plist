@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>382711759055-n0sgqnurvon5f7q56vg5piv7a8ibbt3g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.382711759055-n0sgqnurvon5f7q56vg5piv7a8ibbt3g</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>382711759055-bmghcnk2abk2s745i1ffcrqlsp5ap7k8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDImhMCAQPYJBth8MgYzCpigiRs63j7DXM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>382711759055</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.aestheticMovieList</string>
+	<key>PROJECT_ID</key>
+	<string>aesthetic-movie-list</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aesthetic-movie-list.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:382711759055:ios:e4bd70ab139e56605077ba</string>
+</dict>
+</plist>

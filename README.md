@@ -2,7 +2,7 @@
 
 A flutter project for making a list of your favourite movies.
 
-Thingst to add in the code:
+Thingst to add in future:
 1. Combine the add and edit button code to ensure polymorphism and increase efficiency.
 2. Combine 2 nested providers into one multi provider to reduce redundancy.
 3. Add authentication for facebook, email and number.

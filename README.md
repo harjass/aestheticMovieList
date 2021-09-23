@@ -1,4 +1,4 @@
-# aesthetic_movie_list
+# movie_list
 
 A flutter project for making a list of your favourite movies.
 
